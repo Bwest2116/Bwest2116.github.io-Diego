@@ -1,0 +1,23 @@
+body {
+  background-color: darkblue;
+  color: orangered;
+  font-family: "Cambria", "Cambria", ;
+  text-align: center;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 10px auto;
+  max-width: 300px;
+  padding: 30px;
+  border: 4px double orangered;
+}
+
+h1 {
+  font-size: 60px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
